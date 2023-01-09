@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SSDTUnitTestPath Condition="'$(SSDTUnitTestPath)' == ''">$(VsInstallRoot)\Common7\IDE\Extensions\Microsoft\SQLDB</SSDTUnitTestPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SSDTPath Condition="'$(SSDTPath)' == ''">$(VsInstallRoot)\Common7\IDE\Extensions\Microsoft\SQLDB\DAC</SSDTPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33FCB556-6950-470D-ACFB-EC5882F73636}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>final</RootNamespace>
+    <AssemblyName>final</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admitpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admitpatient.Designer.cs">
+      <DependentUpon>admitpatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="appoinment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="appoinment.Designer.cs">
+      <DependentUpon>appoinment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cuspatadmit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cuspatadmit.Designer.cs">
+      <DependentUpon>cuspatadmit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datashow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datashow.Designer.cs">
+      <DependentUpon>datashow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dia.Designer.cs">
+      <DependentUpon>dia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diaedit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diaedit.Designer.cs">
+      <DependentUpon>diaedit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doccheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doccheck.Designer.cs">
+      <DependentUpon>doccheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctor.Designer.cs">
+      <DependentUpon>doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doctoredit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctoredit.Designer.cs">
+      <DependentUpon>doctoredit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patadmithis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patadmithis.Designer.cs">
+      <DependentUpon>patadmithis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patcheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patcheckout.Designer.cs">
+      <DependentUpon>patcheckout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patdash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patdash.Designer.cs">
+      <DependentUpon>patdash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patdia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patdia.Designer.cs">
+      <DependentUpon>patdia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patdiahis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patdiahis.Designer.cs">
+      <DependentUpon>patdiahis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pathis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pathis.Designer.cs">
+      <DependentUpon>pathis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patientadmit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patientadmit.Designer.cs">
+      <DependentUpon>patientadmit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patientreg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patientreg.Designer.cs">
+      <DependentUpon>patientreg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="patlogincs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="patlogincs.Designer.cs">
+      <DependentUpon>patlogincs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recappoinment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recappoinment.Designer.cs">
+      <DependentUpon>recappoinment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reciep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reciep.Designer.cs">
+      <DependentUpon>reciep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view.Designer.cs">
+      <DependentUpon>view.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admitpatient.resx">
+      <DependentUpon>admitpatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="appoinment.resx">
+      <DependentUpon>appoinment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cuspatadmit.resx">
+      <DependentUpon>cuspatadmit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datashow.resx">
+      <DependentUpon>datashow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dia.resx">
+      <DependentUpon>dia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diaedit.resx">
+      <DependentUpon>diaedit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doccheck.resx">
+      <DependentUpon>doccheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctor.resx">
+      <DependentUpon>doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctoredit.resx">
+      <DependentUpon>doctoredit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patadmithis.resx">
+      <DependentUpon>patadmithis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patcheckout.resx">
+      <DependentUpon>patcheckout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patdash.resx">
+      <DependentUpon>patdash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patdia.resx">
+      <DependentUpon>patdia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patdiahis.resx">
+      <DependentUpon>patdiahis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pathis.resx">
+      <DependentUpon>pathis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patientadmit.resx">
+      <DependentUpon>patientadmit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patientreg.resx">
+      <DependentUpon>patientreg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="patlogincs.resx">
+      <DependentUpon>patlogincs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="recappoinment.resx">
+      <DependentUpon>recappoinment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reciep.resx">
+      <DependentUpon>reciep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view.resx">
+      <DependentUpon>view.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup Condition="$(VisualStudioVersion) == '17.0'">
+    <Reference Include="Microsoft.Data.Tools.Schema.Sql, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>$(SSDTPath)\Microsoft.Data.Tools.Schema.Sql.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Data.Tools.Schema.Sql.UnitTesting, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>$(SSDTUnitTestPath)\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>$(SSDTUnitTestPath)\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <SsdtUnitTestVersion>3.1</SsdtUnitTestVersion>
+  </PropertyGroup>
+  <Import Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.Sql.UnitTesting.targets" Condition="$(VisualStudioVersion) != '15.0' And '$(SQLDBExtensionsRefPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.Sql.UnitTesting.targets" Condition="$(VisualStudioVersion) != '15.0' And '$(SQLDBExtensionsRefPath)' == ''" />
+</Project>

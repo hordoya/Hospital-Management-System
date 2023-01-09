@@ -1,0 +1,130 @@
+C:\Users\hordo\source\repos\final\final\bin\Debug\final.exe.config
+C:\Users\hordo\source\repos\final\final\bin\Debug\final.exe
+C:\Users\hordo\source\repos\final\final\bin\Debug\final.pdb
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.Form1.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.exe
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.pdb
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.admitpatient.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.reciep.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.login.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.patientreg.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.patlogincs.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.datashow.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.doctor.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.dia.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.patcheckout.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.doccheck.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.patdash.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.appoinment.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.patdia.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.patdiahis.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.recappoinment.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.view.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.cuspatadmit.resources
+C:\Users\hordo\source\repos\final\final\obj\Debug\final.pathis.resources
+C:\Users\Asus\Desktop\final\final\final\bin\Debug\final.exe.config
+C:\Users\Asus\Desktop\final\final\final\bin\Debug\final.exe
+C:\Users\Asus\Desktop\final\final\final\bin\Debug\final.pdb
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.admitpatient.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.appoinment.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.cuspatadmit.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.datashow.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.dia.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.doccheck.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.doctor.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.Form1.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.login.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.patcheckout.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.patdash.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.patdia.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.patdiahis.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.pathis.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.patientreg.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.patlogincs.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.recappoinment.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.reciep.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.view.resources
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.exe
+C:\Users\Asus\Desktop\final\final\final\obj\Debug\final.pdb
+C:\Users\hordo\OneDrive\Desktop\final\final\bin\Debug\final.exe.config
+C:\Users\hordo\OneDrive\Desktop\final\final\bin\Debug\final.exe
+C:\Users\hordo\OneDrive\Desktop\final\final\bin\Debug\final.pdb
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.admitpatient.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.appoinment.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.cuspatadmit.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.datashow.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.dia.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.doccheck.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.doctor.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.Form1.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.login.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patcheckout.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patdash.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patdia.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patdiahis.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.pathis.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patientreg.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patlogincs.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.recappoinment.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.reciep.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.view.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.exe
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.pdb
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patientadmit.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.patadmithis.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.doctoredit.resources
+C:\Users\hordo\OneDrive\Desktop\final\final\obj\Debug\final.diaedit.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.csproj.AssemblyReference.cache
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.csproj.SuggestedBindingRedirects.cache
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.exe
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.pdb
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\final.exe.config
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\final.exe
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\final.pdb
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.admitpatient.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.appoinment.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.cuspatadmit.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.datashow.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.dia.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.diaedit.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.doccheck.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.doctor.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.doctoredit.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.Form1.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.login.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patadmithis.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patcheckout.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patdash.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patdia.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patdiahis.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.pathis.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patientadmit.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patientreg.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.patlogincs.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.recappoinment.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.reciep.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.view.resources
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.exe.config
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\hordo\Desktop\final (2)\final\final\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hordo\Desktop\final (2)\final\final\obj\Debug\final.csproj.CopyComplete
