@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
 Introduction:
-The goal of this project is to create a platform from where patients will be able to take appoinment for doctors, take admission in hospital and they can also book their slot for Diagnostic Services. All the services can be done through recieptionist as well.
+The purpose of this project is to provide a platform where patients can schedule appointments with doctors, apply for hospital admission, and reserve a spot for diagnostic services. Every service can also be obtained through a receptionist.
 
 Software Used:
 Visual Studio 2017 and SQL Server 2018 Management Studio.
