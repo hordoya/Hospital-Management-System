@@ -10,8 +10,8 @@ Implementation:
 The project is based on Windows Application Form along with Database. Many toolbox objects were used to design the form such as Button, ComboBox, DataGridView, Label, LinkLabel, Panel, PictureBox, TabControl, Timer etc. 
 
 Users:
-•	Patient
-•	Recieptionist
+1.Patient
+2.Recieptionist
 
 
 
